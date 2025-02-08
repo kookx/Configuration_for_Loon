@@ -58,7 +58,7 @@ A quick look at the folder structure of this project.
 
 ``` 
 .
-		├── Script
+    ├── Script
     │   ├───BDTieBa-DailyBonus
     │   ├───aliyunpan
     │   └───weibo
