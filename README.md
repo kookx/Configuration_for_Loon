@@ -56,8 +56,9 @@
 
 A quick look at the folder structure of this project.
 
- .
-    ├── Script
+``` 
+.
+		├── Script
     │   ├───BDTieBa-DailyBonus
     │   ├───aliyunpan
     │   └───weibo
@@ -67,8 +68,28 @@ A quick look at the folder structure of this project.
     ├── plugin
     ├── assets
     ├── old_quantumultX
+```
+
+
 
 
 
 # ❤️ Acknowledgments
 
+@blackmatrix7
+
+@ddgksf2013
+
+@DivineEngine
+
+@lwd-temp
+
+@NobyDa
+
+@VirgilClyne
+
+@可莉🅥
+
+# ❕Note
+
+This project is for educational and communication purposes only. Please delete it within 24 hours.
